@@ -1,0 +1,13 @@
+{
+    "chats":[
+      {
+        "image_url":"https://github.com/Hassanshin/Apex_Chatbot/raw/main/sythefly.gif",
+        "type":"image"
+      },
+      {
+        "image_url":"https://github.com/Hassanshin/Apex_Chatbot/raw/main/GB.png",
+        "type":"image"
+      }
+      
+    ]
+}
