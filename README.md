@@ -4,4 +4,4 @@ Hamim
 David
 Fahmi
 
-Selamat datang agan-agan sekalian!
+Selamat datang di agan-agan sekalian!
